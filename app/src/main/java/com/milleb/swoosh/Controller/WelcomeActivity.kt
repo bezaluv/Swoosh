@@ -1,8 +1,8 @@
-package com.milleb.swoosh
+package com.milleb.swoosh.Controller
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.milleb.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcom.*
 
 class WelcomeActivity : BaseActivity() {
